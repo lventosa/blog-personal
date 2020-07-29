@@ -3,6 +3,7 @@ layout: post
 title:  "Who was Florence Nightingale?"
 date:   2020-07-29 00:41:51 +0200
 categories: statistics women
+author: Laura
 ---
 
 **Florence Nightingale** was born in 1820 in the city after which she was named. Her parents were British and she was raised in London. Hers was a well-off family and she had access to education from a very young age. Nonetheless, wealthy women like Florence were not expected to work but rather to get married, look after the home, read, sew and attend social events.
