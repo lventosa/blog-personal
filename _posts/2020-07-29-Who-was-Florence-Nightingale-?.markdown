@@ -8,7 +8,7 @@ categories: statistics women
 **Florence Nightingale** was born in 1820 in the city after which she was named. Her parents were British and she was raised in London. Hers was a well-off family and she had access to education from a very young age. Nonetheless, wealthy women like Florence were not expected to work but rather to get married, look after the home, read, sew and attend social events.
 
 <p align="center">
-  <img src="./assets/FlorenceNightingale.jpg">
+  <img src="https://github.com/lventosa/blog-personal/_posts/images/FlorenceNightingale.jpg">
 </p>
 
 Florence, however, felt it was her call from God to become a nurse. At that time, though, only women could become nurses, the job was not recognized as it is today, hospitals were everything but hygienic and sanitized places and most of the time nurses didn't have any training at all. But bear with me, because Florence Nightingale changed it all!
@@ -24,7 +24,7 @@ Not only did she purchase better medical equipment, improved overall hospital co
 She had kept a record of monthly deaths by injuries, zymotic diseases and other causes among the soldiers between April 1854 and March 1856 to denounce the conditions in which she and her team found the war hospital in the Crimean peninsula. Florence represented the monthly deaths by cause in polar-area graphs, as the image below shows, which were afterwards named Nightingale rose plots in her honor. 
 
 <p align="center">
-  <img src="./assets/NightingalePlot.jpg">
+  <img src="https://github.com/lventosa/blog-personal/_posts/images/NightingalePlot.jpg">
 </p>
 
 Moreover, based on her observations during the Crimean War, Florence wrote *Notes on Matters Affecting the Health, Efficiency and Hospital Administration of the British Army*, which was a massive report published in 1858 analyzing her experience and proposing reforms for other military hospitals. The fact that she had collected real data and presented it to government authorities to influence future political decisions based on empirical evidence makes of Florence a statistician, in a way. 
