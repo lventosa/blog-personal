@@ -18,7 +18,7 @@ En general, la informació que rebem de casa o de l'escola sobre el que passa o 
 
 Probablement, l'exemple més conegut d'aquest tipus de producte siguin les apps que recullen informació sobre el cicle menstrual i prediuen quin dia et vindrà la propera regla o quins seran els teus dies més fèrtils el proper cicle. Tanmateix, el món *femtech* no acaba aquí i podem trobar-hi, per exemple, també:
 
-- Un dispositiu desenvolupat per l'enginyera biomèdica catalana Judit Giró,que permet, a partir d'una mostra d'orina, detectar anomalies hormonals i potencials indicis de càncer de mama.
+- Un dispositiu desenvolupat per l'enginyera biomèdica catalana Judit Giró que permet, a partir d'una mostra d'orina, detectar anomalies hormonals i potencials indicis de càncer de mama.
 
 - Una prova diagnòstica no invasiva i fiable per detectar endometriosi, una malaltia més prevalent del que generalment pensem i encara molt desconeguda i silenciada. Aquesta prova permet prevenir la progressió de la malaltia i potencialment salvaguardar la fertilitat de la persona que la pateix.
 
